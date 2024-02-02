@@ -8,8 +8,8 @@
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 
-#### 📨 **How to reach me** 
-[Reach out to me on LinkedIn!](https://www.linkedin.com/in/noah-taylor9247/)
+#### 📨 **[Reach out to me on LinkedIn!](https://www.linkedin.com/in/noah-taylor9247/)** 
+
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 📈🖥️ TECH STACK 
