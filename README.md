@@ -1,6 +1,6 @@
 # 🔩 ABOUT ME
 
-##### 🚹 **Pronouns:** He / Him
+#### 🚹 **Pronouns:** He / Him
 
 #### 💡 **I’m currently learning** 
 ![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -9,7 +9,8 @@
 ![image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 
 #### 📨 **How to reach me** 
-###### ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[Reach out to me on LinkedIn!](https://www.linkedin.com/in/noah-taylor9247/)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 📈🖥️ TECH STACK 
 ### Programs/Software
