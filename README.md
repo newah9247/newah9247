@@ -4,7 +4,7 @@
 
 ##### 💡 **I’m currently learning** 
 
-##### 📫 **How to reach me**
+##### 📨 **How to reach me**
 
 ## 📈🖥️ TECH STACK 
 
