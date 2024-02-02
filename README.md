@@ -1,4 +1,6 @@
-# Hi there 👋
+# 🔩 ABOUT ME
+
+## 📈 TECH STACK 
 
 ##### 🔭 I’m currently working on ...
 
@@ -7,6 +9,8 @@
 ##### 😄 Pronouns: ...
 
 ##### 📫 How to reach me: ...
+
+
 
 
 
