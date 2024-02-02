@@ -11,7 +11,7 @@
 #### 📨 **Contact Me!**
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-taylor9247/)** 
 
-## 📈🖥️ **TECH STACK** 
+# 📈🖥️ **TECH STACK** 
 ### Programs/Software
 ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
