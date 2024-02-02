@@ -8,10 +8,10 @@
 
 ## 📈🖥️ TECH STACK 
 
-Languages: 🖱️
-
 Frameworks/Libraries: Laravel, 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+🖱️Languages:
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newah9247)](https://github.com/newah9247/github-readme-stats)
 
 
 
