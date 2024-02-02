@@ -1,14 +1,18 @@
 # 🔩 ABOUT ME
 
-## 📈 TECH STACK 
-
-##### 🔭 I’m currently working on ...
+##### 🚹 Pronouns: He / Him
 
 ##### 🌱 I’m currently learning ...
 
-##### 😄 Pronouns: ...
+##### 🔭 I’m currently working on ...
 
 ##### 📫 How to reach me: ...
+
+## 📈🖥️ TECH STACK 
+
+Languages: 🖱️
+
+Frameworks/Libraries: Laravel, 
 
 
 
