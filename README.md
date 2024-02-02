@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there 👋
+
+### 🔭 I’m currently working on ...
+
+### 🌱 I’m currently learning ...
+
+### 😄 Pronouns: ...
+
+### 📫 How to reach me: ...
+
+###### fortnite
+
+
+
 
 <!--
 **newah9247/newah9247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
