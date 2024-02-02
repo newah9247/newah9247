@@ -2,7 +2,7 @@
 
 ##### 🚹 **Pronouns:** He / Him
 
-##### 💡 **I’m currently learning** 
+##### 💡 **I’m currently learning** poopoo fart tricks
 
 ##### 📨 **How to reach me**
 
