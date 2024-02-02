@@ -1,19 +1,17 @@
 # 🔩 ABOUT ME
 
-##### 🚹 Pronouns: He / Him
+##### 🚹 **Pronouns:** He / Him
 
-##### 🌱 I’m currently learning ...
+##### 🌱 **I’m currently learning** 
 
-##### 🔭 I’m currently working on ...
-
-##### 📫 How to reach me: ...
+##### 📫 **How to reach me**
 
 ## 📈🖥️ TECH STACK 
 
 Languages: 🖱️
 
 Frameworks/Libraries: Laravel, 
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
