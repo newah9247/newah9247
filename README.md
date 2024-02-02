@@ -8,7 +8,7 @@
 
 ## 📈🖥️ TECH STACK 
 
-Frameworks/Libraries: Laravel, 
+### Frameworks/Libraries: Laravel, 
 
 ### 🖱️Languages:
 
