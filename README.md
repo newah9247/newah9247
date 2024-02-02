@@ -10,7 +10,8 @@
 
 Frameworks/Libraries: Laravel, 
 
-🖱️Languages:
+### 🖱️Languages:
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newah9247)](https://github.com/newah9247/github-readme-stats)
 
 
