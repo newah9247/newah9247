@@ -3,6 +3,8 @@
 #### 🚹 **Pronouns:** He / Him
 I am a second year IT student at Nova Scotia Community College, taking the IT Programming course. I have a passion for Website Development, especially with frameworks such as Laravel. 
 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="100" height="50">
+
 #### 💡 **I’m currently learning** 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -15,11 +17,9 @@ I am a second year IT student at Nova Scotia Community College, taking the IT Pr
 
 
 ### 📈🖥️ **TECH STACK** 
-#### Programs/Software
-![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-[![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+#### Software
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+  - The only thing you need to start programming!
 
 #### Web
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
