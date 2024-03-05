@@ -1,12 +1,9 @@
 # Welcome to My GitHub Page! 🚀
-# 🔩 About Me
+## About Me ℹ️
 #### 🚹 **Pronouns:** He / Him
 
 #### 💡 **I’m currently learning** 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  -
-  -
-  -
 
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
