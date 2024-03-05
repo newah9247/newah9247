@@ -1,6 +1,7 @@
 # Welcome to My GitHub Page! 🚀
 ### About Me ℹ️
 #### 🚹 **Pronouns:** He / Him
+I am a second year IT student at Nova Scotia Community College, taking the IT Programming course. I have a passion for Website Development, especially with frameworks such as Laravel. 
 
 #### 💡 **I’m currently learning** 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
