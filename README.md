@@ -7,9 +7,7 @@ I am a second year IT student at Nova Scotia Community College, taking the IT Pr
 
 #### 💡 **I’m currently learning** 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
 ![image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 
 #### 📨 **Contact Me!**
