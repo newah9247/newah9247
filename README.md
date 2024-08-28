@@ -1,4 +1,4 @@
-# Welcome to My Gi🚀
+# Noah Taylor🚀
 ### About Me ℹ️
 #### 🚹 **Pronouns:** He / Him
 I am a post-secondary programmer at Nova Scotia Community College, 
