@@ -1,63 +1,50 @@
-# Noah Taylor🚀
-### About Me ℹ️
-#### 🚹 **Pronouns:** He / Him
-I am a post-secondary programmer at Nova Scotia Community College, 
-I attended the IT Programming course at Nova Scotia Community College and obtained my diploma in IT Programming.
-I have a passion for Website Development, with frameworks such as React, Laravel, Vue and Next.
+# Noah Taylor 🚀
 
-#### 💡
-- Linux 
-- Laravel 
-- Apache 
-- React
-- Next.js
-- Vue.js
+## About Me ℹ️
 
-#### 📨 **Contact Me!**
-- LinkedIn
+#### 🚹 Pronouns: He / Him
 
+I’m a passionate **Web Developer** with a diploma in IT Programming from **Nova Scotia Community College**. I specialize in building dynamic and responsive web applications using modern frameworks like **React**, **Laravel**, **Vue**, and **Next.js**. My journey in programming is driven by a deep love for coding and continuous learning.
 
-### 📈🖥️ **TECH STACK** 
-#### Software
-Visual Studio Code
-  - The only thing you need to start programming!
+---
 
-#### Web
-- HTML5, CSS3, JavaScript
-- PHP
-- MySQL
+## 💡 Skills & Expertise
 
-#### Other Languages
-- Python
-- C, C++, C#
-- Java
-- 
+- **Web Development**: HTML5, CSS3, JavaScript, PHP, MySQL
+- **Frameworks**: React, Next.js, Vue.js, Laravel
+- **Programming Languages**: Python, C, C++, C#, Java
+- **Operating Systems**: Linux (Ubuntu, Debian, Mint), Windows (10/11, 8, 7), MacOS/iOS/iPadOS
+- **Tools**: Visual Studio Code, Apache
 
-#### Operating Systems
-- Linux (Ubuntu, Debian, Mint)
-- Windows (10/11, 8, 7)
-- MacOS/iOS/iPadOS
+---
 
-#### 🖱️Top Languages:
+## 📈 Tech Stack
+
+**Software:**
+- **Visual Studio Code**: The only thing you need to start programming!
+
+**Web Development:**
+- **Frontend**: HTML5, CSS3, JavaScript (React, Vue.js, Next.js)
+- **Backend**: PHP, Laravel, MySQL
+
+**Programming Languages:**
+- **General Purpose**: Python, C, C++, C#, Java
+
+**Operating Systems:**
+- **Linux**: Ubuntu, Debian, Mint
+- **Windows**: 10/11, 8, 7
+- **Apple Ecosystem**: MacOS, iOS, iPadOS
+
+---
+
+## 📨 Contact Me!
+
+- **[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)**
+
+---
+
+## 🖱️ Top Languages
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=newah9247)](https://github.com/newah9247/github-readme-stats)
 
-
-
-
-
-
-
-<!--
-**newah9247/newah9247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
